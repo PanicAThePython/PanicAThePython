@@ -1,16 +1,24 @@
-### Hi there 👋
+#Natália Weise
 
-<!--
-**PanicAThePython/PanicAThePython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Oi gente!:v::stuck_out_tongue_winking_eye:
 
-Here are some ideas to get you started:
+###Minha Formação:mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Sou formada em Técnico em Informática. Meu curso foi voltado, principalmente, às linguagens de programação, em especial a linguagem Python. 
+    Durante meu curso, também aprendi HTML, CSS, JavaScript, Jinja, SQL(fazendo uso do MySQL) e diagramas UML, além da parte teórica sobre hardwares.
+    Também realizei cursos online, os quais postei os códigos desenvolvidos aqui no GitHub([Java](https://github.com/PanicAThePython/CursoEmVideoJava), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy)).
+    
+    Atualmente, estou caminhando para o segundo semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
+    participo de um projeto da faculdade. Nele, desenvolvo um jogo em C# com o uso da Unity para desenvolver hábitos de higiene bucal das crianças. 
+
+###Participação em Eventos:computer:
+
+    Gosto muito de participar de eventos de programação online. Já participei de duas Semanas OmniStack([10](https://github.com/PanicAThePython/SemanaOmniStack10), [11](https://github.com/PanicAThePython/SemanaOmniStack11)), uma [MaratonaDev](https://github.com/PanicAThePython/MaratonaDev3), um [MegaHack da Shawee](https://github.com/Lima001/Mega-Hack-3.0) e, 
+    atualmente, estou participando da minha primeira Next Level Week.
+    
+    Sendo assim, se estiver procurando alguém para completar seu time em algum evento, ficarei feliz em participar no *Desenvolvimento UX/Fronted*.
+
+###Contato:loudspeaker:
+    
+    Tem dúvida de algum dos temas que mencionei ou está com algum problema com essas linguagens? Entra em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-sens-weise-0b9a42199/), quem sabe eu possa te ajudar!
+    
