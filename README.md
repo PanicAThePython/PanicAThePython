@@ -16,7 +16,7 @@ participo de um projeto da faculdade. Nele, desenvolvo um jogo em C# com o uso d
 Gosto muito de participar de eventos de programação online. Já participei de duas Semanas OmniStack([10](https://github.com/PanicAThePython/SemanaOmniStack10), [11](https://github.com/PanicAThePython/SemanaOmniStack11)), uma [MaratonaDev](https://github.com/PanicAThePython/MaratonaDev3), um [MegaHack da Shawee](https://github.com/Lima001/Mega-Hack-3.0) e, 
 atualmente, estou participando da minha primeira Next Level Week.
 
-Sendo assim, se estiver procurando alguém para completar seu time em algum evento, ficarei feliz em participar no *Desenvolvimento UX/Fronted*.
+Sendo assim, se estiver procurando alguém para completar seu time em algum evento, ficarei feliz em participar no **Desenvolvimento UX/Fronted**.
 
 ### Contato:loudspeaker:
     
