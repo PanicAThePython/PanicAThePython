@@ -9,7 +9,7 @@ Durante meu curso, também aprendi HTML, CSS, JavaScript, Jinja, SQL(fazendo uso
 Também realizei cursos online, os quais postei os códigos desenvolvidos aqui no GitHub([Java](https://github.com/PanicAThePython/CursoEmVideoJava), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy), [C#](https://github.com/PanicAThePython/GalaxyShooter)).
     
 Atualmente, estou caminhando para o segundo semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
-participo de um projeto da faculdade. Nele, desenvolvo um jogo em C# com o uso da Unity para desenvolver hábitos de higiene bucal das crianças. 
+participo de um projeto da faculdade. Nele, desenvolvo um jogo em C# com o uso da Unity para desenvolver hábitos de higiene bucal em crianças. 
 
 ### Participação em Eventos:computer:
 
