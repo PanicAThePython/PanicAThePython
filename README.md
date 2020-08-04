@@ -6,7 +6,7 @@
     
 Sou formada em Técnico em Informática. Meu curso foi voltado, principalmente, às linguagens de programação, em especial a linguagem Python. 
 Durante meu curso, também aprendi HTML, CSS, JavaScript, Jinja, SQL(fazendo uso do MySQL) e diagramas UML, além da parte teórica sobre hardwares.
-Também realizei cursos online, os quais postei os códigos desenvolvidos aqui no GitHub([Java](https://github.com/PanicAThePython/CursoEmVideoJava), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy)).
+Também realizei cursos online, os quais postei os códigos desenvolvidos aqui no GitHub([Java](https://github.com/PanicAThePython/CursoEmVideoJava), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy), [C#](https://github.com/PanicAThePython/GalaxyShooter)).
     
 Atualmente, estou caminhando para o segundo semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
 participo de um projeto da faculdade. Nele, desenvolvo um jogo em C# com o uso da Unity para desenvolver hábitos de higiene bucal das crianças. 
