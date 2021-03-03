@@ -9,10 +9,10 @@ Durante meu curso, também aprendi HTML, CSS, JavaScript, Jinja, SQL(fazendo uso
 Também realizei cursos online, os quais postei os códigos desenvolvidos aqui no GitHub([Java](https://github.com/PanicAThePython/CursoEmVideoJava), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy), [C#](https://github.com/PanicAThePython/GalaxyShooter)).
 
 Na faculdade, aprendi a utilizar o [ASSEMBLY](https://github.com/PanicAThePython/FundAssembly), na disciplina de Arquitetura de Computadores I.
-Também tenho disciplina de [POO](https://github.com/PanicAThePython/POO).
+Também tenho disciplina de [POO](https://github.com/PanicAThePython/POO) em Java.
     
-Atualmente, estou caminhando para o segundo semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
-participo de um projeto da faculdade. Nele, desenvolvo um jogo em C# com o uso da Unity.
+Atualmente, estou caminhando para o terceiro semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
+faço estágio numa empresa de tecnologia.
 
 ### Participação em Eventos:computer:
 
