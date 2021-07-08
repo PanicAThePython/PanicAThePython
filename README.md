@@ -9,9 +9,11 @@ Durante meu curso, também aprendi HTML, CSS, JavaScript, Jinja, SQL(fazendo uso
 Também realizei cursos online, os quais postei os códigos desenvolvidos aqui no GitHub([Java](https://github.com/PanicAThePython/CursoEmVideoJava), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy), [C#](https://github.com/PanicAThePython/GalaxyShooter)).
 
 Na faculdade, aprendi a utilizar o [ASSEMBLY](https://github.com/PanicAThePython/FundAssembly), na disciplina de Arquitetura de Computadores I.
-Também tenho disciplina de [POO](https://github.com/PanicAThePython/POO) em Java.
+Também tive disciplina de [POO](https://github.com/PanicAThePython/POO) em Java.
+
+Desenvolvi minhas habilidades em [JavaScript](https://github.com/PanicAThePython/CursoEmVideoJS) fazendo o [Curso de JavaScript do Curso Em Video](https://www.cursoemvideo.com/course/javascript/), além de criar o projeto [UniversoHQ](https://github.com/PanicAThePython/UniversoHQ-App) e [GithubUsers](https://github.com/PanicAThePython/GithubUsers). Também tive a disciplina [Algoritmo e Estrutura de Dados](https://github.com/PanicAThePython/AED), onde aprendi sobre [Mapas de Dispersão](https://github.com/PanicAThePython/AED-MapaDispersao).
     
-Atualmente, estou caminhando para o terceiro semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
+Atualmente, estou caminhando para o quarto semestre do curso de Ciência da Computação no período matutino na FURB e, no período da tarde, 
 faço estágio numa empresa de tecnologia.
 
 ### Participação em Eventos:computer:
