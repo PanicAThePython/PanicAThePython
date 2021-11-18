@@ -25,7 +25,7 @@
 * [Angular](https://github.com/PanicAThePython/angular-bytebank);
 * [Sass](https://github.com/PanicAThePython/projeto-sass);
 
-#### 2. Graduanda de Ciência da Computação
+#### 2. Graduanda de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
 
 ##### O que aprendeu lá?
 
