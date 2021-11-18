@@ -15,7 +15,7 @@
 * Engenharia de Software (diagrama de atividades, de classes, de caso de uso, requisitos, ...);
 * Hardware (parte teórica);
 
-#### Aprendizado online:
+#### 1.5. Aprendizado online:
 
 * [Java](https://github.com/PanicAThePython/CursoEmVideoJava);
 * [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy);
