@@ -35,10 +35,6 @@
 * Desenvolvimento Web: 
     * [UniversoHQ](https://github.com/PanicAThePython/UniversoHQ-App);
     * [GithubUsers](https://github.com/PanicAThePython/GithubUsers);
-    
-#### Atualmente
-
-Terminando 4º semestre e estagiando na área de Frontend.
 
 ### Participação em Eventos:computer:
 
