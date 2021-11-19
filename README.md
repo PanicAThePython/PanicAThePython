@@ -4,7 +4,7 @@
 
 #### 1. Formada em Técnico em Informática pelo Instituto Federal Catarinense (IFC).
 
-##### O que aprendeu lá?
+__O que aprendeu lá?__
 
 * [Pytho](https://github.com/PanicAThePython/Programa-oII) com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
 * HTML;
@@ -27,7 +27,7 @@
 
 #### 2. Graduanda de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
 
-##### O que aprendeu lá?
+__O que aprendeu lá?__
 
 * [ASSEMBLY](https://github.com/PanicAThePython/FundAssembly), na disciplina de Arquitetura de Computadores I;
 * [POO](https://github.com/PanicAThePython/POO) em Java;
