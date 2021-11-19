@@ -6,7 +6,7 @@
 
 #### O que aprendeu lá?
 
-* [Pytho](https://github.com/PanicAThePython/Programa-oII) com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
+* [Python](https://github.com/PanicAThePython/Programa-oII) com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
 * HTML;
 * CSS;
 * JavaScript;
