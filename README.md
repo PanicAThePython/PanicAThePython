@@ -1,8 +1,8 @@
 # Natália Sens Weise
 
-### Formação:mortar_board:
+## Formação:mortar_board:
 
-#### 1. Formada em Técnico em Informática pelo Instituto Federal Catarinense (IFC).
+### 1. Formada em Técnico em Informática pelo Instituto Federal Catarinense (IFC).
 
 __O que aprendeu lá?__
 
@@ -15,7 +15,7 @@ __O que aprendeu lá?__
 * Engenharia de Software (diagrama de atividades, de classes, de caso de uso, requisitos, ...);
 * Hardware (parte teórica);
 
-#### 1.5. Aprendizado online:
+### 1.5. Aprendizado online:
 
 * [Java](https://github.com/PanicAThePython/CursoEmVideoJava);
 * [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy);
@@ -25,7 +25,7 @@ __O que aprendeu lá?__
 * [Angular](https://github.com/PanicAThePython/angular-bytebank);
 * [Sass](https://github.com/PanicAThePython/projeto-sass);
 
-#### 2. Graduanda de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
+### 2. Graduanda de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
 
 __O que aprendeu lá?__
 
@@ -34,7 +34,7 @@ __O que aprendeu lá?__
 * [Algoritmo e Estrutura de Dados](https://github.com/PanicAThePython/AED), onde aprendeu [Mapas de Dispersão](https://github.com/PanicAThePython/AED-MapaDispersao);
 * Desenvolvimento Web;
 
-### Projetos Desenvolvidos:
+## Projetos Desenvolvidos:
 
 * Curso Técnico:
    * [Sustentour](https://github.com/PanicAThePython/Sustentour), projeto estático de páginas HTML;
@@ -45,7 +45,7 @@ __O que aprendeu lá?__
     * [UniversoHQ](https://github.com/PanicAThePython/UniversoHQ-App), projeto em JS;
     * [GithubUsers](https://github.com/PanicAThePython/GithubUsers), projeto em React;
 
-### Participação em Eventos:computer:
+## Participação em Eventos:computer:
 
 * [Semana OmniStack 10](https://github.com/PanicAThePython/SemanaOmniStack10);
 * [Semana OmniStack 11](https://github.com/PanicAThePython/SemanaOmniStack11);
@@ -54,6 +54,6 @@ __O que aprendeu lá?__
 * [Next Level Week 2](https://github.com/PanicAThePython/nlw-2);
 * DoWhile 1;
 
-### Contato:loudspeaker:
+##Contato:loudspeaker:
     
 * [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-sens-weise-0b9a42199/);
