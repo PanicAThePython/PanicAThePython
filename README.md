@@ -4,7 +4,7 @@
 
 ### 1. Formada em Técnico em Informática pelo Instituto Federal Catarinense (IFC).
 
-__O que aprendeu lá?__
+#### O que aprendeu lá?
 
 * [Pytho](https://github.com/PanicAThePython/Programa-oII) com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
 * HTML;
@@ -27,7 +27,7 @@ __O que aprendeu lá?__
 
 ### 2. Graduanda de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
 
-__O que aprendeu lá?__
+#### O que aprendeu lá?
 
 * [ASSEMBLY](https://github.com/PanicAThePython/FundAssembly), na disciplina de Arquitetura de Computadores I;
 * [POO](https://github.com/PanicAThePython/POO) em Java;
@@ -54,6 +54,6 @@ __O que aprendeu lá?__
 * [Next Level Week 2](https://github.com/PanicAThePython/nlw-2);
 * DoWhile 1;
 
-##Contato:loudspeaker:
+## Contato:loudspeaker:
     
 * [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-sens-weise-0b9a42199/);
