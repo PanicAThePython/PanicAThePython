@@ -6,7 +6,7 @@
 
 ##### O que aprendeu lá?
 
-* Python com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
+* [Pytho](https://github.com/PanicAThePython/Programa-oII) com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
 * HTML;
 * CSS;
 * JavaScript;
@@ -32,9 +32,18 @@
 * [ASSEMBLY](https://github.com/PanicAThePython/FundAssembly), na disciplina de Arquitetura de Computadores I;
 * [POO](https://github.com/PanicAThePython/POO) em Java;
 * [Algoritmo e Estrutura de Dados](https://github.com/PanicAThePython/AED), onde aprendeu [Mapas de Dispersão](https://github.com/PanicAThePython/AED-MapaDispersao);
-* Desenvolvimento Web: 
-    * [UniversoHQ](https://github.com/PanicAThePython/UniversoHQ-App);
-    * [GithubUsers](https://github.com/PanicAThePython/GithubUsers);
+* Desenvolvimento Web;
+
+### Projetos Desenvolvidos:
+
+* Curso Técnico:
+   * [Sustentour](https://github.com/PanicAThePython/Sustentour), projeto estático de páginas HTML;
+   * [Ballot](https://github.com/PanicAThePython/Ballot), projeto dinâmico com armazenamento de dados;
+* Evento:
+   * [Food Network](https://github.com/PanicAThePython/Mega-Hack-3.0);
+* Faculdade:
+    * [UniversoHQ](https://github.com/PanicAThePython/UniversoHQ-App), projeto em JS;
+    * [GithubUsers](https://github.com/PanicAThePython/GithubUsers), projeto em React;
 
 ### Participação em Eventos:computer:
 
