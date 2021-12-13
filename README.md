@@ -32,6 +32,7 @@
 * [ASSEMBLY](https://github.com/PanicAThePython/FundAssembly), na disciplina de Arquitetura de Computadores I;
 * [POO](https://github.com/PanicAThePython/POO) em Java;
 * [Algoritmo e Estrutura de Dados](https://github.com/PanicAThePython/AED), onde aprendeu [Mapas de Dispersão](https://github.com/PanicAThePython/AED-MapaDispersao);
+* [Teoria dos Grafos](https://github.com/PanicAThePython/grafos);
 * Desenvolvimento Web;
 
 ## Projetos Desenvolvidos:
