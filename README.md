@@ -47,12 +47,8 @@
 
 ## Participação em Eventos:computer:
 
-* [Semana OmniStack 10](https://github.com/PanicAThePython/SemanaOmniStack10);
-* [Semana OmniStack 11](https://github.com/PanicAThePython/SemanaOmniStack11);
-* [Maratona Dev 3](https://github.com/PanicAThePython/MaratonaDev3);
-* [MegaHack da Shawee 3](https://github.com/Lima001/Mega-Hack-3.0);
-* [Next Level Week 2](https://github.com/PanicAThePython/nlw-2);
-* DoWhile 1;
+* Rocketseat: [Semana OmniStack 10](https://github.com/PanicAThePython/SemanaOmniStack10), [Semana OmniStack 11](https://github.com/PanicAThePython/SemanaOmniStack11), [Maratona Dev 3](https://github.com/PanicAThePython/MaratonaDev3), [Next Level Week 2](https://github.com/PanicAThePython/nlw-2), DoWhile 1;
+* Shawee: [MegaHack da Shawee 3](https://github.com/Lima001/Mega-Hack-3.0);
 
 ## Contato:loudspeaker:
     
