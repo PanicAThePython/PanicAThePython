@@ -1,5 +1,11 @@
 # Natália Sens Weise
 
+<div>
+<a href="https://github.com/PanicAThePython">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanicAThePython&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PanicAThePython&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Formação:mortar_board:
 
 ### 1. Formada em Técnico em Informática pelo Instituto Federal Catarinense (IFC).
@@ -7,20 +13,17 @@
 #### O que aprendeu lá?
 
 * [Python](https://github.com/PanicAThePython/Programa-oII) com foco em Backend, fazendo uso do [Flask](https://github.com/PanicAThePython/RestAPIFurb) e do Peewee;
-* HTML;
-* CSS;
-* JavaScript;
-* Jinja;
+* HTML, CSS, JavaScript, Jinja;
 * SQL, com foco na IDE MySQL;
 * Engenharia de Software (diagrama de atividades, de classes, de caso de uso, requisitos, ...);
 * Hardware (parte teórica);
 
 ### 1.5. Aprendizado online:
 
+* [C# Unity](https://github.com/PanicAThePython/GalaxyShooter);
+* [JavaScript](https://github.com/PanicAThePython/CursoEmVideoJS);
 * [Java](https://github.com/PanicAThePython/CursoEmVideoJava);
 * [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy);
-* [C#](https://github.com/PanicAThePython/GalaxyShooter), com foco em desenvolvimento de jogos na engine Unity;
-* [JavaScript](https://github.com/PanicAThePython/CursoEmVideoJS);
 * [React](https://github.com/PanicAThePython/react-ceep);
 * [Angular](https://github.com/PanicAThePython/angular-bytebank);
 * [Sass](https://github.com/PanicAThePython/projeto-sass);
