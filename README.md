@@ -20,13 +20,9 @@
 
 ### 1.5. Aprendizado online:
 
-* [C# Unity](https://github.com/PanicAThePython/GalaxyShooter);
-* [JavaScript](https://github.com/PanicAThePython/CursoEmVideoJS);
-* [Java](https://github.com/PanicAThePython/CursoEmVideoJava);
-* [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy);
-* [React](https://github.com/PanicAThePython/react-ceep);
-* [Angular](https://github.com/PanicAThePython/angular-bytebank);
-* [Sass](https://github.com/PanicAThePython/projeto-sass);
+* Udemy: [C# Unity](https://github.com/PanicAThePython/GalaxyShooter), [C/C++](https://github.com/PanicAThePython/AulasFundC-Udemy);
+* Curso Em Vídeo: [JavaScript](https://github.com/PanicAThePython/CursoEmVideoJS), [Java](https://github.com/PanicAThePython/CursoEmVideoJava);
+* Alura: [React](https://github.com/PanicAThePython/react-ceep), [Angular](https://github.com/PanicAThePython/angular-bytebank), [Sass](https://github.com/PanicAThePython/projeto-sass);
 
 ### 2. Graduanda de Ciência da Computação pela Fundação Universidade Regional de Blumenau (FURB).
 
