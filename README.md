@@ -1,7 +1,7 @@
 # Natália Sens Weise
 
 Oiiee, tudo bem?
-Eu sou a Natália, estou no 8º semestre de Ciência da Computação e trabalho como Desenvolvedora Frontend na Hi Platform.
+Eu sou a Natália, estou no 9º semestre de Ciência da Computação.
 Uso esse espaço para organizar meus projetos da faculdade e de estudos, fique à vontade para se aventurar pesquisando.
 Aqui tem um gráfico com a maioria das linguagens utilizadas. Além dessas, tem também C# (projetos Unity).
 
