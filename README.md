@@ -1,9 +1,9 @@
 # Natália Sens Weise
 
 Oiiee, tudo bem?
-Eu sou a Natália, estou no 9º semestre de Ciência da Computação.
+Eu sou a Natália e sou formanda de Ciência da Computação.
 Uso esse espaço para organizar meus projetos da faculdade e de estudos, fique à vontade para se aventurar pesquisando.
-Aqui tem um gráfico com a maioria das linguagens utilizadas. Além dessas, tem também C# (projetos Unity).
+Aqui tem um gráfico com a maioria das linguagens utilizadas. Além dessas, também utilizei C# (projetos Unity).
 
 <!-- <a href="https://github.com/PanicAThePython"> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanicAThePython&layout=compact&langs_count=7&theme=dracula"/>
